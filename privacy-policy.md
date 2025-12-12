@@ -18,4 +18,4 @@ Fluff My Email is a Chrome extension that helps users rewrite and improve the to
 
 If you have any questions about this privacy policy, you can contact the developer at:
 
-**Email:** your@email.com
+**Email:** automationisking24@gmail.com
